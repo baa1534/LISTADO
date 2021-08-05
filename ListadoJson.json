@@ -1,0 +1,31 @@
+{
+    "nombre": "Integrantes del grupo 1",
+    "listado": [
+        {
+            "Nombre": "Ivan",
+            "Apellido": "Correa",
+            "Edad": "29",
+            "Localidad": "Carmelo"
+            
+        },
+        {
+            "Nombre": "Nicolas",
+            "Apellido": "Alfaro",
+            "Edad": "26",
+            "Localidad": "Maldonado"
+        },
+        {
+            "Nombre": "Sebastian",
+            "Apellido": "Barbitta",
+            "Edad": "26",
+            "Localidad": "Montevideo"
+        },
+        {
+            "Nombre": "Belen",
+            "Apellido": "Avarino",
+            "Edad": "26",
+            "Localidad": "Montevideo"
+        }
+        
+    ]
+}
